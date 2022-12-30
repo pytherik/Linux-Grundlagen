@@ -1,4 +1,2 @@
-# Linux-Grundlagen
+# [zum Linux-Grundlagen Wiki](https://github.com/pytherik/Linux-Grundlagen/wiki)
 
-## [zum Wiki](https://github.com/pytherik/Linux-Grundlagen/wiki)
-## [zum lpic-wiki](https://github.com/pytherik/lpic-wiki)
